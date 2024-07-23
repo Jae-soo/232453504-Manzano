@@ -1,10 +1,4 @@
 <?php
-phpinfo();
-?>
-
-
-
-<?php
 $servername ="localhost"
 $username = "root";
 $password = "";
