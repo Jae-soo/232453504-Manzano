@@ -1,0 +1,49 @@
+    1  proot-distro linux
+    2  proot-distro login ubuntu
+    3  proot-distro logim ubuntu
+    4  proot-distro login ubuntu
+    5  cd 232453504-Manzano
+    6  proot-distro login ubuntu
+    7  cd 232453504-Manzano
+    8  ls
+    9  cd 232453504-Manzano
+   10  exit
+   11  cd 232453504-Manzano
+   12  cd https://github.com/Jae-soo/232453504-Manzano
+   13  git fetch
+   14  ls
+   15  ls 232453504-Manzano
+   16  ls
+   17  clear
+   18  ls
+   19  cat textfile.txt
+   20  del txtfile.txt
+   21  rm txtfile.txt
+   22  exit
+   23  ls
+   24  cd 232453504-Manzano
+   25  git clone https://github.com/Jae-soo/232453504-Manzano
+   26  git checkout -b finalexam
+   27  history > examlog.txt
+   28  ls
+   29  mv examlog.txt exam_log.txt
+   30  ls
+   31  cat exam_log.txt
+   32  ls
+   33  linux_practice
+   34  cd linux_practice
+   35  ls
+   36  mv notes.txt /practice_subdir
+   37  mv notes.txt practice_subdir
+   38  ls
+   39  cd practice_subdir
+   40  ls
+   41  date
+   42  uptime
+   43  cd ..
+   44  ls
+   45  cd..
+   46  cd ..
+   47  ld
+   48  ls
+   49  history > exam_log.txt
